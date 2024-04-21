@@ -1,0 +1,6 @@
+[submodule "hex"]
+	path = hex
+	url = git@github.com:filipfur/hex.git
+[submodule "lix"]
+	path = lix
+	url = git@github.com:filipfur/lix.git
